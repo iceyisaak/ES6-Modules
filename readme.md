@@ -1,4 +1,4 @@
-# ES6 Modules
+# Sandbox_ES6-Modules
 
 - Standard way to divide JS into separate chunk
 - As of JUN 2020, it's not fully supported some browsers
